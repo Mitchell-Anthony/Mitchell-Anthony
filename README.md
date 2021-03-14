@@ -61,3 +61,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitchell-anthony&show_icons=true&locale=en" alt="srimathij" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitchell-anthony&" alt="srimathij" /></p>
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
