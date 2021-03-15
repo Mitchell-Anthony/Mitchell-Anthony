@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👩🏻‍💻 All of my projects are available on **Github**
 
-- 💬 Ask me about **Python,NLP,IBM Watson,Machine Learning,Deep Learning!**
+- 💬 Ask me about **Python,Django,NLP,AWS,Machine Learning,Deep Learning!**
 
 - 📫 How to reach me **letsgetstartedwithbub@gmail.com**
 
