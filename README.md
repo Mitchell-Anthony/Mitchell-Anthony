@@ -1,4 +1,3 @@
-### Hi there 👋 I am Mitchell 😄
 
 <!--
 **Mitchell-Anthony/Mitchell-Anthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey 👋, I am mitchel-anthony</h1>
+<h1 align="center">Hey 👋, I am mitchel-anthony👩🏻‍💻 </h1>
 <h3 align="center">A girl who loves to develop chatbots! "Self-Learner"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitchell-anthony&label=Profile%20views&color=blueviolet&style=flat" alt="mitchel-anthony" /> </p>
@@ -33,17 +32,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **letsgetstartedwithbub@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V4rarfqNaBBN_1esfwQ64aG_cL6lyOHE/view?usp=sharing](https://drive.google.com/file/d/1V4rarfqNaBBN_1esfwQ64aG_cL6lyOHE/view?usp=sharing)
+- ⚡ Fun fact **I think I'm a Good girl!😁 **
 
-- ⚡ Fun fact **I think I'm a Good girl!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mitchell-david-anthony/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mitchell upps!!!!" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/bub_canvas/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mitchell" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/channel/UC99Hu7dB4CaoniO7lOLL4NA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Mitchell upps!!!!" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -74,3 +64,10 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitchell-anthony&theme=chartreuse-dark&show_icons=true&count_private=true" alt="mitchell" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitchell-anthony&theme=chartreuse-dark&show_icons=true" alt="hey mitchell" /></p>
+
+<h3 align="center">Connect with me 😃</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/mitchell-david-anthony/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mitchell upps!!!!" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bub_canvas/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mitchell" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC99Hu7dB4CaoniO7lOLL4NA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Mitchell upps!!!!" height="30" width="40" /></a>
+  </p>
