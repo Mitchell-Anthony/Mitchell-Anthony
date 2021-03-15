@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
 
-- 👨‍💻 All of my projects are available on **Github**
+- 👩🏻‍💻 All of my projects are available on **Github**
 
 - 💬 Ask me about **Python,NLP,IBM Watson,Machine Learning,Deep Learning!**
 
 - 📫 How to reach me **letsgetstartedwithbub@gmail.com**
 
-- ⚡ Fun fact **I think I'm a Good girl!😁 **
+- ⚡ Fun fact **I think I'm a Good Developer!😁**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitchell-anthony&theme=chartreuse-dark&show_icons=true" alt="hey mitchell" /></p>
 
-<h3 align="center">Connect with me 😃</h3>
+<h3 align="center">CONNECT WITH ME 😃🙌</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mitchell-david-anthony/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mitchell upps!!!!" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bub_canvas/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mitchell" height="30" width="40" /></a>
