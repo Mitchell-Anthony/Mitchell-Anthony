@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 <!-- https://github-readme-stats.vercel.app/api?username=mitchell-anthony&theme=chartreuse-dark&show_icons=true&count_private=true -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitchell-anthony&theme=chartreuse-dark&show_icons=true&count_private=true" alt="mitchell" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitchell-anthony&" alt="hey mitchell" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitchell-anthony&theme=chartreuse-dark&show_icons=true" alt="hey mitchell" /></p>
