@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchell-anthony&show_icons=true&locale=en&layout=compact" alt="mitchell" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchell-anthony&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="mitchell" /></p>
 <!-- https://github-readme-stats.vercel.app/api?username=mitchell-anthony&theme=chartreuse-dark&show_icons=true&count_private=true -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitchell-anthony&theme=chartreuse-dark&show_icons=true&count_private=true" alt="mitchell" /></p>
 
