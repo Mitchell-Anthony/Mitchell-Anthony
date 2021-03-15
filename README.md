@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitchell-anthony&label=Profile%20views&color=blueviolet&style=flat" alt="mitchel-anthony" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitchell-anthony&theme=monokai" alt="srimathij" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitchell-anthony&theme=margin-w=15" alt="srimathij" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/srimathi_dev" target="blank"><img src="https://img.shields.io/twitter/follow/srimathi_dev?logo=twitter&style=for-the-badge" alt="srimathi_dev" /></a> </p>
 
