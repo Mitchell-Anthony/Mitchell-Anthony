@@ -62,14 +62,3 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitchell-anthony&" alt="srimathij" /></p>
 
-| Cases | Average Case | Worst Case |
-| :---: | :---: | :---: |
-| Space | O(n) | O(n) |
-| :---: | :---: | :---: |
-| Lookup | O(1) | O(1) |
-| :---: | :---: | :---: |
-| Append | O(1) | O(n) |
-| :---: | :---: | :---: |
-| Insert | O(n) | O(n) |
-| :---: | :---: | :---: |
-| Delete | O(n) | O(n) |
